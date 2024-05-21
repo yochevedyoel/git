@@ -1,0 +1,4 @@
+alert("ooooooooooooooofffffffff")
+const a =()=>{
+    
+}
