@@ -1,4 +1,0 @@
-alert("ooooooooooooooofffffffff")
-const a =()=>{
-    
-}
